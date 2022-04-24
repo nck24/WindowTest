@@ -6,10 +6,5 @@
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
-  <ItemGroup>
-    <Resource Include="Images\drive.png" />
-    <Resource Include="Images\file.png" />
-    <Resource Include="Images\folder.png" />
-</ItemGroup>
 
 </Project>
